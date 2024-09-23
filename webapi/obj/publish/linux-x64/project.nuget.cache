@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aj8pdq/SKjJkro4hvxHGCEa+iXEIhSbrqkLmjTXtK0SYthVx4BH1og/2jxSclLDHyyxDrgdVxt9po+tZ59myJQ==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectCode\\Demo\\webapi\\webapi\\webapi\\webapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\王强\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\王强\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.32\\microsoft.netcore.app.runtime.linux-x64.3.1.32.nupkg.sha512",
+    "C:\\Users\\王强\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.32\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.32.nupkg.sha512",
+    "C:\\Users\\王强\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.32\\microsoft.netcore.app.host.linux-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
